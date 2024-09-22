@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" height="200px" width="100%" src="https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif">
+<img align="center" alt="Coding" height="250px" width="100%" src="https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif">
 
 
 <h2 align="center">Coding Skills Loading...</h2>
