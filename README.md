@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" height="250px" width="100%" src="https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif">
 
-<h1 align="center">Hi, I'm Bhaskar 👋</h1>
-<h3 align="center">Final-year CSE student · SEO/Digital Marketing Consultant · Builder</h3>
+<h1 align="center">Hi, I'm Bhaskar</h1>
+<h3 align="center">Final-year CSE student · Builder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhaskarkr777&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarkr777" />
@@ -29,8 +29,8 @@
 <td><b>Building</b> — <a href="https://joinheyroot.com">heyroot</a>, my own tech brand — a Next.js + TypeScript + Tailwind site with scroll-driven animation</td>
 </tr>
 <tr>
-<td align="center">🧑‍🏫</td>
-<td><b>Shipped</b> — A B.Tech CSE teaching platform covering DSA, OS, DBMS, CN, OOP, and System Design</td>
+  <td align="center">⚡</td>
+  <td><b>Shipped</b> — Parallel Coder, a collaborative cloud IDE enabling teams to code, communicate, and build software together in real time.</td>
 </tr>
 <tr>
 <td align="center">📈</td>
